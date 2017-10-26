@@ -1,0 +1,6 @@
+{
+  "name": "drewhunder/ItemPosition",
+  "description": "Provides a basic facility to sort included head files such as js and css",
+  "license": "MIT",
+  "type": "magento-module"
+}
